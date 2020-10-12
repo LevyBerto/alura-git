@@ -1,0 +1,3 @@
+# ignora tudo dentro da pasta "teste/"
+teste/*
+
